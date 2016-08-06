@@ -1,0 +1,31 @@
+_repo: The-Compleat-CookOf-Sauces-or-Making-of-Pastry_10520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: W. M.
+    alias: M., W.
+    gutenberg_agent_id: '5173'
+    url: http://www.gutenberg.org/2009/agents/5173
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cookbooks'
+- !lcsh 'Cooking -- Early works to 1800'
+- GITenberg
+title: 'The Compleat Cook
+
+  Expertly Prescribing the Most Ready Wayes, Whether Italian,
+
+  Spanish or French, for Dressing of Flesh and Fish, Ordering
+
+  Of Sauces or Making of Pastry'
+url: http://www.gutenberg.org/ebooks/10520

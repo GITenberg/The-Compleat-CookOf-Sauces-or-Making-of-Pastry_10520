@@ -1,5 +1,8 @@
 _repo: The-Compleat-CookOf-Sauces-or-Making-of-Pastry_10520
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: W. M.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '5173'
     url: http://www.gutenberg.org/2009/agents/5173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10520#The-Compleat-CookOf-Sauces-or-Making-of-Pastry
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
